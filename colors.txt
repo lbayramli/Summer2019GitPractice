@@ -9,3 +9,4 @@ pink
 navy blue
 cyan
 Azure
+French Rose
