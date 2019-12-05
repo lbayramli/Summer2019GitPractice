@@ -5,4 +5,5 @@ yellow
 orange
 gray
 light blue
+white
 
