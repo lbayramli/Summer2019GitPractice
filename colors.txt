@@ -12,4 +12,5 @@ Azure
 French Rose
 Cyber yellow
 fushia
-
+French Violet
+Lilac
