@@ -11,4 +11,5 @@ cyan
 Azure
 French Rose
 Cyber yellow
+fushia
 
