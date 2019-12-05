@@ -6,3 +6,4 @@ orange
 gray
 light blue
 pink
+navy blue
