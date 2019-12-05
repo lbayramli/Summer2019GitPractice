@@ -4,4 +4,6 @@ blue
 yellow
 orange
 gray
+pink
+
 
